@@ -24,7 +24,7 @@ if (!isset($_SESSION["usuario"])) {
         </div>
 
         <div class="nav-links">
-            <a href="./Anime Api/index.php">Ir al Buscador de Anime</a>
+            <a href="./AnimeApi/index.php">Ir al Buscador de Anime</a>
             <a href="dashboard.php">Gestionar Usuarios</a>
         </div>
 
